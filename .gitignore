@@ -1,0 +1,7 @@
+bayes.py
+linear.py
+svm.py
+/images
+*.pyc
+/.vscode
+__pycache__

@@ -1,0 +1,4 @@
+scikit-learn
+pytdx
+torch==1.13.0
+matplotlib
